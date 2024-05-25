@@ -1,1 +1,0 @@
-let graphData={graphOptions:{attractionForce:1,linkLength:10,repulsionForce:150,centralForce:3,edgePruning:100,minNodeRadius:3,maxNodeRadius:7},isInitialized:!0,paths:["lore-diagram/lore-diagram-v1.html","lore-diagram/test-hyperlink-note.html"],nodeCount:2,linkSources:[],linkTargets:[],labels:["Lore Diagram V1","Test Hyperlink Note"],radii:[null,null],linkCount:0}
