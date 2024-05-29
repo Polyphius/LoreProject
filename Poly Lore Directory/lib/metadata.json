@@ -1,17 +1,48 @@
 {
   "vaultName": "OC Counters",
-  "lastExport": 1716633202575,
+  "lastExport": 1716968686516,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Poly Lore Diagram/_attachments/10686_2021_9828_Fig19_HTML.png",
+    "Poly Lore Diagram/_attachments/archangel.png",
     "Poly Lore Diagram/AMF.md",
     "Poly Lore Diagram/CGL.md",
     "Poly Lore Diagram/Equinox.md",
     "Poly Lore Diagram/Lore Diagram V1.canvas",
     "Poly Lore Diagram/Primary Conflict.md",
+    "Poly Lore Diagram/Test Note 1.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css",
+    "poly-lore-diagram/_attachments/10686_2021_9828_fig19_html.png",
     "lib/media/koikatu-2024-01-15-02-52-07-render.png",
     "lib/media/koikatu-2024-01-15-02-50-49-render.png",
     "lib/media/koikatu-2024-01-15-02-51-12-render.png",
@@ -48,36 +79,7 @@
     "lib/media/koikatu-2024-01-15-03-53-45-render.png",
     "lib/media/koikatu-2024-01-15-02-55-19-render.png",
     "lib/media/koikatu-2024-01-15-02-56-53-render.png",
-    "lib/media/koikatu-2024-01-20-16-27-06-render.png",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
-    "lib/styles/snippets.css"
+    "lib/media/koikatu-2024-01-20-16-27-06-render.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -111,18 +113,12 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
-    "Poly Lore Diagram/_attachments/10686_2021_9828_Fig19_HTML.png": {
-      "modifiedTime": 1716633202575,
-      "sourceSize": 232416,
-      "exportedPath": "poly-lore-diagram/_attachments/10686_2021_9828_fig19_html.png",
-      "dependencies": []
-    },
     "Poly Lore Diagram/AMF.md": {
-      "modifiedTime": 1716633202575,
-      "sourceSize": 5638,
+      "modifiedTime": 1716968686516,
+      "sourceSize": 5621,
       "exportedPath": "poly-lore-diagram/amf.html",
       "dependencies": [
-        "poly-lore-diagram/_attachments/10686_2021_9828_fig19_html.png"
+        "poly-lore-diagram/_attachments/archangel.png"
       ]
     },
     "Poly Lore Diagram/CGL.md": {
@@ -420,177 +416,195 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1716633202575,
-      "sourceSize": 4033,
+      "modifiedTime": 1716968686516,
+      "sourceSize": 4331,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1716633202575,
-      "sourceSize": 513,
+      "modifiedTime": 1716968686516,
+      "sourceSize": 566,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1716633202575,
+      "modifiedTime": 1716968686516,
       "sourceSize": 2609,
       "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "Poly Lore Diagram/_attachments/archangel.png": {
+      "modifiedTime": 1716968686516,
+      "sourceSize": 232416,
+      "exportedPath": "poly-lore-diagram/_attachments/archangel.png",
+      "dependencies": []
+    },
+    "Poly Lore Diagram/Test Note 1.md": {
+      "modifiedTime": 1716968686516,
+      "sourceSize": 15,
+      "exportedPath": "poly-lore-diagram/test-note-1.html",
+      "dependencies": []
+    },
+    "poly-lore-diagram/_attachments/archangel.png": {
+      "modifiedTime": 1716968686516,
+      "sourceSize": 232416,
+      "exportedPath": "poly-lore-diagram/_attachments/archangel.png",
       "dependencies": []
     }
   }
