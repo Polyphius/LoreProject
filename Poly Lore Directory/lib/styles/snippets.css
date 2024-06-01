@@ -4,3 +4,8 @@ h1, h2, h3, h4, h5, h6, hr {
     margin-top: 0.5rem !important;
     margin-bottom: 0.5rem !important;
 }
+
+ul {
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
