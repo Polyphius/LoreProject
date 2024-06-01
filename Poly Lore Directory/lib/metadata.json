@@ -1,13 +1,12 @@
 {
   "vaultName": "OC Lore Project",
-  "lastExport": 1717250794675,
+  "lastExport": 1717252600596,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
     "Poly Lore Project/_attachments/_metadata/favicon.ico",
-    "Poly Lore Project/_attachments/archangel.png",
     "Poly Lore Project/Kill Counts/Kill Counts (Female).canvas",
     "Poly Lore Project/Kill Counts/Kill Counts (Male).canvas",
     "Poly Lore Project/AMF.md",
@@ -21,44 +20,6 @@
     "Poly Lore Project/Size Tech.md",
     "Poly Lore Project/Summary.md",
     "Poly Lore Project/US Government.md",
-    "lib/media/koikatu-2024-01-15-02-46-41-render.png",
-    "lib/media/koikatu-2024-01-15-02-49-12-render.png",
-    "lib/media/koikatu-2024-01-15-02-47-47-render.png",
-    "lib/media/koikatu-2024-01-15-02-46-50-render.png",
-    "lib/media/koikatu-2024-01-15-02-48-15-render.png",
-    "lib/media/koikatu-2024-01-15-02-49-01-render.png",
-    "lib/media/koikatu-2024-01-15-02-49-39-render.png",
-    "lib/media/koikatu-2024-01-15-02-48-38-render.png",
-    "lib/media/koikatu-2024-01-15-02-56-18-render.png",
-    "lib/media/koikatu-2024-04-03-01-02-04-render.png",
-    "lib/media/koikatu-2024-01-15-02-58-02-render.png",
-    "lib/media/koikatu-2024-01-15-02-58-31-render.png",
-    "lib/media/koikatu-2024-04-03-01-02-05-render.png",
-    "lib/media/koikatu-2024-01-20-16-27-06-render.png",
-    "lib/media/koikatu-2024-01-15-02-50-39-render.png",
-    "lib/media/koikatu-2024-01-16-05-51-16-render.png",
-    "lib/media/cgl_logo.png",
-    "lib/media/equinox.png",
-    "lib/media/amf_logo.png",
-    "lib/media/koikatu-2024-01-15-02-52-53-render.png",
-    "lib/media/koikatu-2024-01-15-02-50-49-render.png",
-    "lib/media/koikatu-2024-01-15-02-50-04-render.png",
-    "lib/media/koikatu-2024-01-15-02-50-26-render.png",
-    "lib/media/koikatu-2024-01-15-02-52-07-render.png",
-    "lib/media/koikatu-2024-01-15-02-51-12-render.png",
-    "lib/media/koikatu-2024-01-15-02-47-48-render.png",
-    "lib/media/koikatu-2024-01-20-16-26-53-render.png",
-    "lib/media/navy_logo.png",
-    "lib/media/usgov.png",
-    "lib/media/seal_of_the_fbi.svg.png",
-    "lib/media/koikatu-2024-01-15-02-54-33-render.png",
-    "lib/media/koikatu-2024-01-15-02-54-12-render.png",
-    "lib/media/koikatu-2024-01-15-02-54-51-render.png",
-    "lib/media/koikatu-2024-01-15-02-55-19-render.png",
-    "lib/media/koikatu-2024-01-15-03-07-55-render.png",
-    "lib/media/koikatu-2024-01-15-02-53-32-render.png",
-    "lib/media/koikatu-2024-01-15-03-53-45-render.png",
-    "lib/media/koikatu-2024-01-15-02-56-53-render.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -88,8 +49,45 @@
     "lib/styles/global-variable-styles.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
+    "lib/media/koikatu-2024-01-15-02-46-41-render.png",
+    "lib/media/koikatu-2024-01-15-02-49-12-render.png",
+    "lib/media/koikatu-2024-01-15-02-47-47-render.png",
+    "lib/media/koikatu-2024-01-15-02-46-50-render.png",
+    "lib/media/koikatu-2024-01-15-02-48-15-render.png",
+    "lib/media/koikatu-2024-01-15-02-49-01-render.png",
+    "lib/media/koikatu-2024-01-15-02-49-39-render.png",
+    "lib/media/koikatu-2024-01-15-02-48-38-render.png",
+    "lib/media/koikatu-2024-01-15-02-56-18-render.png",
+    "lib/media/koikatu-2024-04-03-01-02-04-render.png",
+    "lib/media/koikatu-2024-01-15-02-58-02-render.png",
+    "lib/media/koikatu-2024-01-15-02-58-31-render.png",
+    "lib/media/koikatu-2024-04-03-01-02-05-render.png",
     "poly-lore-project/_attachments/archangel.png",
-    "lib/media/koikatu-2024-01-15-02-48-06-render.png"
+    "lib/media/koikatu-2024-01-20-16-27-06-render.png",
+    "lib/media/koikatu-2024-01-15-02-50-39-render.png",
+    "lib/media/koikatu-2024-01-16-05-51-16-render.png",
+    "lib/media/cgl_logo.png",
+    "lib/media/equinox.png",
+    "lib/media/amf_logo.png",
+    "lib/media/koikatu-2024-01-15-02-52-53-render.png",
+    "lib/media/koikatu-2024-01-15-02-50-49-render.png",
+    "lib/media/koikatu-2024-01-15-02-50-04-render.png",
+    "lib/media/koikatu-2024-01-15-02-50-26-render.png",
+    "lib/media/koikatu-2024-01-15-02-52-07-render.png",
+    "lib/media/koikatu-2024-01-15-02-51-12-render.png",
+    "lib/media/koikatu-2024-01-15-02-47-48-render.png",
+    "lib/media/koikatu-2024-01-20-16-26-53-render.png",
+    "lib/media/navy_logo.png",
+    "lib/media/usgov.png",
+    "lib/media/seal_of_the_fbi.svg.png",
+    "lib/media/koikatu-2024-01-15-02-54-33-render.png",
+    "lib/media/koikatu-2024-01-15-02-54-12-render.png",
+    "lib/media/koikatu-2024-01-15-02-54-51-render.png",
+    "lib/media/koikatu-2024-01-15-02-55-19-render.png",
+    "lib/media/koikatu-2024-01-15-03-07-55-render.png",
+    "lib/media/koikatu-2024-01-15-02-53-32-render.png",
+    "lib/media/koikatu-2024-01-15-03-53-45-render.png",
+    "lib/media/koikatu-2024-01-15-02-56-53-render.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -211,12 +209,6 @@
       "modifiedTime": 1717250794675,
       "sourceSize": 324323,
       "exportedPath": "lib/media/koikatu-2024-01-15-02-50-26-render.png",
-      "dependencies": []
-    },
-    "lib/media/koikatu-2024-01-15-02-48-06-render.png": {
-      "modifiedTime": 1717237051041,
-      "sourceSize": 301767,
-      "exportedPath": "lib/media/koikatu-2024-01-15-02-48-06-render.png",
       "dependencies": []
     },
     "lib/media/koikatu-2024-04-03-01-02-04-render.png": {
@@ -346,175 +338,175 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1717250794675,
-      "sourceSize": 8508,
+      "modifiedTime": 1717252600596,
+      "sourceSize": 8133,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 85694,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 1332,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 368,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1717250794675,
+      "modifiedTime": 1717252600596,
       "sourceSize": 2701,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -523,12 +515,6 @@
       "modifiedTime": 1717237051041,
       "sourceSize": 15406,
       "exportedPath": "poly-lore-project/_attachments/_metadata/favicon.ico",
-      "dependencies": []
-    },
-    "Poly Lore Project/_attachments/archangel.png": {
-      "modifiedTime": 1717237051041,
-      "sourceSize": 232416,
-      "exportedPath": "poly-lore-project/_attachments/archangel.png",
       "dependencies": []
     },
     "Poly Lore Project/AMF.md": {
