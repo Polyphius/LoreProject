@@ -1,0 +1,10 @@
+{
+  "accentColor": "#f0b128",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "typewriter-dark",
+    "compact-core",
+    "wikibox"
+  ],
+  "baseFontSizeAction": true
+}

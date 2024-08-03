@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"138f27aa7688fee3","type":"text","text":"# Unknown","x":-2040,"y":-280,"width":660,"height":60},
+		{"id":"f642a29b4d6bf71e","type":"text","text":"# 🍑0\n# 👄0\n# 🦶0\n# 🍆0\n# 🧦0\n# 👢0\n# ❔0","x":-1640,"y":-220,"width":260,"height":400},
+		{"id":"12f92b481f4db6aa","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-56-18-Render.png","x":-2040,"y":-220,"width":400,"height":400},
+		{"id":"5a679736c1caf8b6","type":"text","text":"# Clone #???","x":-2040,"y":240,"width":660,"height":60},
+		{"id":"0188cebc912c2e1a","type":"file","file":"Images/finalcrops/Koikatu-2024-04-03-01-02-04-Render.png","x":-2040,"y":300,"width":400,"height":400},
+		{"id":"a1dbdeb11a47193e","type":"text","text":"# 🍑0\n# 👄0\n# 🦶0\n# 🍆0\n# 🧦0\n# 👢0\n# ❔0","x":-1640,"y":300,"width":260,"height":400},
+		{"id":"90633f85898fda61","type":"text","text":"# Josie","x":-1280,"y":-280,"width":660,"height":60},
+		{"id":"1afb64c27ac39899","type":"text","text":"# 🍑0\n# 👄0\n# 🦶0\n# 🍆0\n# 🧦0\n# 👢0\n# ❔0","x":-880,"y":-220,"width":260,"height":400},
+		{"id":"ca04fc18e3ada5ec","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-58-02-Render.png","x":-1280,"y":-220,"width":400,"height":400},
+		{"id":"4d6b36ece6db0299","type":"text","text":"# Orenji Keku","x":-1280,"y":240,"width":660,"height":60},
+		{"id":"671a42d1ff9d662d","type":"text","text":"# 🍑0\n# 👄0\n# 🦶0\n# 🍆0\n# 🧦0\n# 👢0\n# ❔0","x":-880,"y":300,"width":260,"height":400},
+		{"id":"4bb9445a500e01db","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-58-31-Render.png","x":-1280,"y":300,"width":400,"height":400},
+		{"id":"775d7ced36d1770f","type":"text","text":"# Hank Dreyfus","x":-2040,"y":760,"width":660,"height":60},
+		{"id":"76e54443cbd474ee","type":"text","text":"# 🍑0\n# 👄0\n# 🦶0\n# 🍆0\n# 🧦0\n# 👢0\n# ❔0","x":-1640,"y":820,"width":260,"height":400},
+		{"id":"72a5b8ec17fb2c84","x":-2040,"y":820,"width":400,"height":400,"type":"file","file":"Images/finalcrops/Koikatu-2024-04-03-01-02-05-Render.png"}
+	],
+	"edges":[]
+}

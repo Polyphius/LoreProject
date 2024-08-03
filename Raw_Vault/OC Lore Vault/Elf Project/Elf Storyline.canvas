@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"01000a790048496a","type":"file","file":"Elf Project/_attachments/GAcLqAwWEAAnXW9.jpg","x":60,"y":260,"width":329,"height":400},
+		{"id":"d6c89349c575d525","type":"text","text":"Rank and File","x":-460,"y":680,"width":250,"height":60},
+		{"id":"4316e28c23c6365f","type":"file","file":"Elf Project/_attachments/FnGXSp7X0AA0lpQ.jpg","x":-460,"y":-160,"width":400,"height":333},
+		{"id":"a0a90fe6a7e1c823","type":"text","text":"Initial Meeting, 1 knight exchanged for magic/gold","x":-460,"y":-220,"width":400,"height":60},
+		{"id":"83a8d993dad844c4","type":"file","file":"Elf Project/_attachments/sea_pass.png","x":-460,"y":331,"width":400,"height":169},
+		{"id":"f8efd80034ae65ac","type":"text","text":"Sets up on the coast, receives signal that evacuatuion of the coastal towns was a success, shown by red beacon in distance. ","x":-568,"y":260,"width":508,"height":75}
+	],
+	"edges":[
+		{"id":"7ba085b7bd310975","fromNode":"4316e28c23c6365f","fromSide":"right","toNode":"01000a790048496a","toSide":"top","label":"A Few weeks pass.\ntravels towards the coast."},
+		{"id":"ab7402a9905a6637","fromNode":"01000a790048496a","fromSide":"left","toNode":"83a8d993dad844c4","toSide":"right"},
+		{"id":"aff08e55d325ce52","fromNode":"83a8d993dad844c4","fromSide":"bottom","toNode":"d6c89349c575d525","toSide":"top"}
+	]
+}

@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "7fc079fcbc4cf9fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdf266cbcb7be4cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9158656e568d7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80708cd6224ff772",
+    "type": "split",
+    "children": [
+      {
+        "id": "70492ea5e1160853",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "833ec0b595f4b0c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "020517ca8767aeb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56a9f3adc2c61155",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "dca76fcbe273b3f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab35354ee7e21230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d6a6405ca58f558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce7ad2a0e2f9c93d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bc3f733c7b2eb6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac2c21fae4bb4a49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "6c9158656e568d7b",
+  "lastOpenFiles": [
+    "WikiBox Test/Text.md",
+    "WikiBox Test/Wikibox Test.md",
+    "Poly Lore Project/US Government.md",
+    "Images/finalcrops/Koikatu-2024-01-15-02-49-39-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-50-04-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-50-26-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-50-39-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-50-49-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-51-12-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-52-07-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-52-53-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-53-13-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-53-32-Render.png",
+    "Poly Lore Project/Home Directory.md",
+    "Poly Lore Project/Lore Diagram V1.canvas",
+    "Poly Lore Project/Artwork + Story Gallery.md",
+    "Poly Lore Project/Kill Counts/Kill Counts (Male).canvas",
+    "Poly Lore Project/Kill Counts/Kill Counts (Female).canvas",
+    "Poly Lore Project/AMF.md",
+    "Poly Lore Project/CGL.md",
+    "Poly Lore Project/Character Types and Guidelines.md",
+    "Poly Lore Project/Equinox.md",
+    "Poly Lore Project/Size Tech.md",
+    "Poly Lore Project/Summary.md",
+    "WikiBox Test",
+    "Poly Lore Project/Primary Conflict.md",
+    "Poly Lore Project/Test Note 1.md",
+    "Elf Storyline.canvas",
+    "2024-06-01.md",
+    "Poly Lore Project/_attachments/_metadata/favicon.ico",
+    "Poly Lore Project/_attachments/_metadata",
+    "Poly Lore Diagram/_attachments/Untitled.md",
+    "Poly Lore Project/_attachments",
+    "Primary Lore Diagram/Untitled.md",
+    "Killcounts.canvas",
+    "Poly Lore Project",
+    "elf shit",
+    "Images/finalcrops",
+    "Images"
+  ]
+}

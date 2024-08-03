@@ -1,0 +1,9 @@
+[[Home Directory|<- Home]]
+***
+# Plot Premise
+The setting is a modern day conspiracy thriller that follows a corporate cold war between two rival corporations that have both cracked size altering tech at around the same time. Both of these corporations currently operate within the United States. 
+[[AMF]] is the first of these corporations, founded soon after the collapse of the USSR they came to dominate the European PMC market by the turn of the millennium. Eventually expanding to operate on US soil in the early 2000s by the time the story takes place, they have an incredible history of weapons and tech patents. The group has suspected ties to both the Russian Government and the CCP although these ties are unconfirmed.
+This group cracked size tech through reverse engineering an entity of unknown origin, the project was named [[AMF#Project Archangel|Project Archangel]] and has reached a stage where an inferior version of the entity's abilities can be replicated independent of it.
+The second of these organizations is [[Equinox]], an American owned and operated PMC founded in 2006 as a direct response to [[AMF]]'s growing market share. They have a similarly impressive history of patents and research and cracked size tech through [[Equinox#Project Sarvus|Project Sarvus]]. Much like their competitor's equivalent, it too comes with extensive drawbacks.
+The story follows as a main plot both corporations' attempts to sabotage the other through espionage and other shady methods.
+Although this is the primary plot, the setting allows for numerous tangential subplots that have little or no relation at all to the main storyline.

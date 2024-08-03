@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"138f27aa7688fee3","type":"text","text":"# Amy Lancaster","x":-2040,"y":-280,"width":660,"height":60},
+		{"id":"ab10084ae153efa7","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-46-41-Render.png","x":-2040,"y":-220,"width":400,"height":400},
+		{"id":"f642a29b4d6bf71e","type":"text","text":"# 🍑4\n# 👄28\n# 🦶6\n# 🌷2\n# 🧦3\n# 👢10\n# ❔13","x":-1640,"y":-220,"width":260,"height":400},
+		{"id":"9bb27c50ebaf8865","type":"text","text":"# Jane Lancaster","x":-2040,"y":260,"width":660,"height":60},
+		{"id":"af54ab896c2ce4dc","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-49-12-Render.png","x":-2040,"y":320,"width":400,"height":400},
+		{"id":"f3d8cd6ca1e28fcc","type":"text","text":"# 🍑12\n# 👄2\n# 🦶28\n# 🌷8\n# 🧦6\n# 👢4\n# ❔3","x":-1640,"y":320,"width":260,"height":400},
+		{"id":"57e6ddf3d4e907ef","type":"text","text":"# [ REDACTED ]","x":-1280,"y":-280,"width":660,"height":60},
+		{"id":"52d7e7597d9447ff","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-47-47-Render.png","x":-1280,"y":-220,"width":400,"height":400},
+		{"id":"11e7e332a27fe6f1","type":"text","text":"# 🍑CLASSIFIED\n# 👄CLASSIFIED\n# 🦶CLASSIFIED\n# 🌷CLASSIFIED\n# 🧦CLASSIFIED\n# 👢CLASSIFIED\n# ❔CLASSIFIED","x":-880,"y":-220,"width":260,"height":400},
+		{"id":"5aa9a279622ff458","type":"text","text":"# Clara McKinney","x":-1280,"y":260,"width":660,"height":60},
+		{"id":"c02e850f04e51996","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-46-50-Render.png","x":-1280,"y":320,"width":400,"height":400},
+		{"id":"2822e3c01ba46659","type":"text","text":"# 🍑4\n# 👄0\n# 🦶4\n# 🌷0\n# 🧦6\n# 👢15\n# ❔2","x":-880,"y":320,"width":260,"height":400},
+		{"id":"2b260a88ba2900b3","type":"text","text":"# Ave Lancaster","x":-2040,"y":820,"width":660,"height":60},
+		{"id":"e1c47c5d352a9e14","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-48-15-Render.png","x":-2040,"y":880,"width":400,"height":400},
+		{"id":"651772f0709dd386","type":"text","text":"# 🍑31\n# 👄18\n# 🦶46\n# 🌷3\n# 🧦10\n# 👢18\n# ❔2","x":-1640,"y":880,"width":260,"height":400},
+		{"id":"02e97f9e566cc558","type":"text","text":"# Sarah Eastbrook","x":-2040,"y":1360,"width":660,"height":60},
+		{"id":"2a487dbddedeb311","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-49-01-Render.png","x":-2040,"y":1420,"width":400,"height":400},
+		{"id":"a38118f5489dc715","type":"text","text":"# 🍑7\n# 👄41\n# 🦶8\n# 🌷2\n# 🧦0\n# 👢0\n# ❔9","x":-1640,"y":1420,"width":260,"height":400},
+		{"id":"d516e7d79caeeaa2","type":"text","text":"# Lauren Rosefeather","x":-1280,"y":820,"width":660,"height":60},
+		{"id":"0c2a628e1d93b325","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-49-39-Render.png","x":-1280,"y":880,"width":400,"height":400},
+		{"id":"5ee5b621fc2bf01b","type":"text","text":"# 🍑0\n# 👄0\n# 🦶0\n# 🌷0\n# 🧦0\n# 👢0\n# ❔0","x":-880,"y":880,"width":260,"height":400},
+		{"id":"4d7c2d76ea0f27c1","type":"text","text":"# 🍑2\n# 👄0\n# 🦶7\n# 🌷0\n# 🧦0\n# 👢8\n# ❔4","x":-880,"y":1420,"width":260,"height":400},
+		{"id":"c0b08d584679c5b1","type":"text","text":"# Unknown","x":-1280,"y":1360,"width":660,"height":60},
+		{"id":"dc0322b57b35cee4","type":"file","file":"Images/finalcrops/Koikatu-2024-01-15-02-48-38-Render.png","x":-1280,"y":1420,"width":400,"height":400}
+	],
+	"edges":[]
+}
