@@ -8,15 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfcabe723cd458ff",
+            "id": "21e5d464e21b49b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WikiBox Test/Character Bio Template.md",
+                "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
+            }
+          },
+          {
+            "id": "3d6680f47ea90698",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 366.5
   },
   "right": {
     "id": "dca76fcbe273b3f4",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WikiBox Test/Character Bio Template.md",
+                "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WikiBox Test/Character Bio Template.md",
+                "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WikiBox Test/Character Bio Template.md"
+                "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md"
               }
             }
           }
@@ -133,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +155,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfcabe723cd458ff",
+  "active": "21e5d464e21b49b3",
   "lastOpenFiles": [
     "WikiBox Test/Text.md",
     "WikiBox Test/Wikibox Test.md",
+    "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md",
+    "Poly Lore Project/Artwork + Story Gallery.md",
+    "Poly Lore Project/CGL.md",
+    "Poly Lore Project/Equinox.md",
+    "Poly Lore Project/Home Directory.md",
+    "Poly Lore Project/Character Types and Guidelines.md",
+    "Poly Lore Project/AMF.md",
+    "Poly Lore Project/Character Bios/Heading Title Tests.md",
+    "Poly Lore Project/Kill Counts/Kill Counts (Female).canvas",
+    "Poly Lore Project/Kill Counts/Kill Counts (Male).canvas",
     "Elf Project/Elf Storyline.canvas",
-    "WikiBox Test/Character Bio Template.md",
     "Images/finalcrops/Koikatu-2024-01-15-02-49-39-Render.png",
     "Images/finalcrops/Koikatu-2024-01-15-02-49-12-Render.png",
     "Images/finalcrops/Koikatu-2024-01-15-02-49-01-Render.png",
@@ -160,20 +178,12 @@
     "Images/finalcrops/Koikatu-2024-01-15-02-47-47-Render.png",
     "Images/finalcrops/Koikatu-2024-01-15-02-46-50-Render.png",
     "Images/finalcrops/Koikatu-2024-01-15-02-46-41-Render.png",
-    "Poly Lore Project/CGL.md",
-    "Poly Lore Project/Artwork + Story Gallery.md",
-    "Poly Lore Project/AMF.md",
-    "Poly Lore Project/Character Types and Guidelines.md",
-    "Poly Lore Project/Home Directory.md",
-    "Poly Lore Project/Equinox.md",
     "Poly Lore Project/Lore Diagram V1.canvas",
     "Poly Lore Project/Size Tech.md",
     "Poly Lore Project/Summary.md",
     "Poly Lore Project/US Government.md",
     "Images/finalcrops/Koikatu-2024-01-15-02-50-04-Render.png",
     "Images/finalcrops/Koikatu-2024-01-15-02-50-26-Render.png",
-    "Poly Lore Project/Kill Counts/Kill Counts (Male).canvas",
-    "Poly Lore Project/Kill Counts/Kill Counts (Female).canvas",
     "WikiBox Test",
     "Poly Lore Project/Primary Conflict.md",
     "Poly Lore Project/Test Note 1.md",

@@ -1,3 +1,17 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae velit nec libero condimentum volutpat. Integer sit amet risus vitae odio congue scelerisque. Sed imperdiet, ipsum sit amet vestibulum ultricies, leo purus fringilla ipsum, nec volutpat leo purus et justo. Fusce scelerisque euismod libero ac consectetur. Quisque id neque eu libero pharetra vehicula. Donec tristique odio sit amet enim tincidunt, non tempus velit tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vulputate tellus at tellus finibus, vitae faucibus magna congue. Duis consectetur ultrices nulla, ut ultrices ipsum. Aliquam erat volutpat.
+Text displayed above.
 
-Fusce hendrerit felis ac ipsum consectetur, vitae volutpat lacus commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur posuere lectus a justo tempus, at consectetur dui convallis. Quisque non dapibus metus, non aliquam ex. Suspendisse ut dui nec odio gravida dignissim. Nulla facilisi. Vivamus ac tortor in arcu accumsan accumsan. Sed lobortis ligula eget mollis molestie. Curabitur eu faucibus lacus.
+--- start-multi-column: ExampleRegion1  
+```column-settings  
+number of columns: 2  
+largest column: left  
+```
+
+Text displayed in column 1.
+
+--- end-column ---
+
+Text displayed in column 2.
+
+--- end-multi-column
+
+Text displayed below.

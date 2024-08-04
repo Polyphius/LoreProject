@@ -4,7 +4,6 @@ body {
  }
  
  /* Infobox */
- 
  .infobox {
    margin: 0;
    border: 0;
@@ -13,8 +12,8 @@ body {
    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI",
      Roboto, "Inter", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
      "Microsoft YaHei Light", sans-serif;
- 
-   max-width: 250px;
+
+   max-width: 450px;
    color: #dcddde;
  
    border: 2px solid rgba(255, 255, 255, 0.1);
