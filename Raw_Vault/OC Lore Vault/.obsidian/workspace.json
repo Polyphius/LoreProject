@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf266cbcb7be4cf",
+        "id": "aa4d9f60f2a348d9",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9158656e568d7b",
+            "id": "dfcabe723cd458ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WikiBox Test/Character Bio Template.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WikiBox Test/Character Bio Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WikiBox Test/Character Bio Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WikiBox Test/Character Bio Template.md"
+              }
             }
           }
         ]
@@ -138,32 +146,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6c9158656e568d7b",
+  "active": "dfcabe723cd458ff",
   "lastOpenFiles": [
     "WikiBox Test/Text.md",
     "WikiBox Test/Wikibox Test.md",
-    "Poly Lore Project/US Government.md",
+    "Elf Project/Elf Storyline.canvas",
+    "WikiBox Test/Character Bio Template.md",
     "Images/finalcrops/Koikatu-2024-01-15-02-49-39-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-50-04-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-50-26-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-50-39-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-50-49-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-51-12-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-52-07-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-52-53-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-53-13-Render.png",
-    "Images/finalcrops/Koikatu-2024-01-15-02-53-32-Render.png",
-    "Poly Lore Project/Home Directory.md",
-    "Poly Lore Project/Lore Diagram V1.canvas",
-    "Poly Lore Project/Artwork + Story Gallery.md",
-    "Poly Lore Project/Kill Counts/Kill Counts (Male).canvas",
-    "Poly Lore Project/Kill Counts/Kill Counts (Female).canvas",
-    "Poly Lore Project/AMF.md",
+    "Images/finalcrops/Koikatu-2024-01-15-02-49-12-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-49-01-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-48-15-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-48-06-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-47-47-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-46-50-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-46-41-Render.png",
     "Poly Lore Project/CGL.md",
+    "Poly Lore Project/Artwork + Story Gallery.md",
+    "Poly Lore Project/AMF.md",
     "Poly Lore Project/Character Types and Guidelines.md",
+    "Poly Lore Project/Home Directory.md",
     "Poly Lore Project/Equinox.md",
+    "Poly Lore Project/Lore Diagram V1.canvas",
     "Poly Lore Project/Size Tech.md",
     "Poly Lore Project/Summary.md",
+    "Poly Lore Project/US Government.md",
+    "Images/finalcrops/Koikatu-2024-01-15-02-50-04-Render.png",
+    "Images/finalcrops/Koikatu-2024-01-15-02-50-26-Render.png",
+    "Poly Lore Project/Kill Counts/Kill Counts (Male).canvas",
+    "Poly Lore Project/Kill Counts/Kill Counts (Female).canvas",
     "WikiBox Test",
     "Poly Lore Project/Primary Conflict.md",
     "Poly Lore Project/Test Note 1.md",

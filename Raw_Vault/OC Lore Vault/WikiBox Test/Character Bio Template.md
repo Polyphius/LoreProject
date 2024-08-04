@@ -1,10 +1,14 @@
-# Lauren Rosefeather
+--- start-multi-column: ExampleRegion1  
+```column-settings  
+number of columns: 2  
+largest column: left  
+border: off
+shadow: off
+```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae velit nec libero condimentum volutpat. Integer sit amet risus vitae odio congue scelerisque. Sed imperdiet, ipsum sit amet vestibulum ultricies, leo purus fringilla ipsum, nec volutpat leo purus et justo. Fusce scelerisque euismod libero ac consectetur. Quisque id neque eu libero pharetra vehicula. Donec tristique odio sit amet enim tincidunt, non tempus velit tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vulputate tellus at tellus finibus, vitae faucibus magna congue. Duis consectetur ultrices nulla, ut ultrices ipsum. Aliquam erat volutpat.
+Text displayed in column 1.
 
-Fusce hendrerit felis ac ipsum consectetur, vitae volutpat lacus commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur posuere lectus a justo tempus, at consectetur dui convallis. Quisque non dapibus metus, non aliquam ex. Suspendisse ut dui nec odio gravida dignissim. Nulla facilisi. Vivamus ac tortor in arcu accumsan accumsan. Sed lobortis ligula eget mollis molestie. Curabitur eu faucibus lacus.
-Text displayed above.
-
+--- end-column ---
 
 <html lang="en">
 <head>
@@ -18,7 +22,7 @@ Text displayed above.
     <div class="heading">
       <h2>Lauren Rosefeather</h2>
     </div>
-    <img src="C:\Users\Sleep\Desktop\OC Lore Vault\Images\finalcrops\Koikatu-2024-01-15-02-49-39-Render.png" class="infobox-img"
+    <img src="C:\repos\LoreProject\Raw_Vault\OC Lore Vault\Images\finalcrops\Koikatu-2024-01-15-02-49-39-Render.png" class="infobox-img"
       alt="infobox picture">
     <div class="infobox-group">
       <div class="heading">
@@ -102,3 +106,4 @@ Text displayed above.
 </body>
 </html>
 
+--- end-multi-column

@@ -2,3 +2,17 @@
     --background-secondary: #111111 !important;
     --background-primary: #111111 !important
 }
+
+/* FIX: background color for titlebar buttons on Windows */
+div.titlebar-button-container.mod-right {
+    background-color: var(--background-primary) !important;
+  }
+
+.theme-dark{
+    --background-secondary-alt: #111111 !important
+}
+
+
+.is-focused .titlebar-inner{
+    color: var(--titlebar-text-color) !important
+}

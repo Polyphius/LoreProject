@@ -2,9 +2,10 @@
   "accentColor": "#f0b128",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
+    "wikibox",
     "typewriter-dark",
-    "compact-core",
-    "wikibox"
+    "darktheme"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 14
 }
