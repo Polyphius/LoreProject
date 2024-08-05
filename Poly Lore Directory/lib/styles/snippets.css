@@ -1,5 +1,102 @@
 .theme-dark{--background-secondary:#111111!important;--background-primary:#111111!important}.markdown-rendered div:has( > :is(p,pre,table,ul,ol))+div>:is(h1,h2,h3,h4,h5,h6){margin-top:1rem}.nav-file-title{padding-top:0!important;padding-bottom:0!important}.metadata-property-key>.metadata-property-key-input{padding-bottom:0!important}.metadata-content>.metadata-add-button{padding-top:.75rem;padding-bottom:.75rem}.metadata-add-button>.text-button-label{margin-bottom:0!important}.metadata-container{margin-bottom:0}.titlebar-button{background-color:#111!important}.titlebar-button-container :hover{background-color:#191919!important}input[type=checkbox]{border-radius:35%}body{--callout-tip:var(--color-green-rgb);--callout-important:var(--color-red-rgb);--checklist-done-color:#d6d6d66e}.metadata-property-value:focus-within{background-color:#0000}.metadata-add-button{padding-top:1rem;padding-bottom:1rem}.metadata-property-icon svg{color:#35905f!important}.metadata-properties-title{color:#35905f!important;font-family:var(--font-monospace)}.metadata-add-button .text-button-label{margin-bottom:.1rem}.metadata-container{--input-height:1rem}.metadata-property *{padding-top:0!important;padding-bottom:0!important}.metadata-property-key,.metadata-property-key-input,.metadata-property-value{font-size:.9rem}.metadata-property-key-input{display:flex!important;justify-content:center!important;align-items:center!important;padding-bottom:.2rem!important}.tree-item-self.nav-file-title{align-items:normal}palette1{--pal1-h1:#386641;--pal1-h2:#6A994E;--pal1-h3:#A7C957;--pal1-h4:#F2E8CF;--pal1-h5:#bc4774;--pal1-h6:#ed5a5a}palette3{--pal3-h1:#386641;--pal3-h2:#6A994E;--pal3-h3:#F2C078;--pal3-h4:#F2E8CF;--pal3-h5:#DB504A;--pal3-h6:#EF6461}palette2{--pal2-h1:#2b5bee;--pal2-h2:#3b72f3;--pal2-h3:#35905f;--pal2-h4:#e8be6a;--pal2-h5:#f2715e;--pal2-h6:#ed5a5a}body:not(.is-mobile) .markdown-source-view.mod-cm6.is-readable-line-width .inline-title{margin-left:0!important}.cm-header-1,h1{color:#fcbf49!important}.cm-header-2,h2{color:#f77f00!important}.cm-header-3,h3{color:#d62828!important}.cm-header-4,h4{color:#ff4574!important}.cm-header-5,h5{color:#5750b9!important}.cm-header-6,h6{color:#3747d8!important}.cm-quote{color:#36973d!important}.cm-line::before{border-left-color:#36973d!important}[class=cm-hmd-frontmatter]{color:var(--text-accent)!important}.cm-strikethrough{color:#d6d6d66e}.cm-em{color:#ff6c52!important}.cm-strong{color:#3a7ce6!important}.cm-strong.cm-em{color:#fa5a8a!important}em{color:#ff6c52!important}strong{color:#3a7ce6!important}strong em{color:#fa5a8a!important}.cm-line:has(+ .cm-embed-block.cm-table-widget) br{display:none}.markdown-rendered table{margin-block-start:0}
 
+.bio-content-container{
+    display: flex;
+}
+
+.bio-content-col1{
+    flex: 3;
+}
+
+.bio-content-col2{
+    flex: 1;
+    margin-left: 3rem;
+}
+
+.infobox {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Microsoft YaHei Light", sans-serif;
+    max-width: 450px;
+    color: #dcddde;
+    border: 2px solid rgba(255, 255, 255, .1);
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0);
+    padding: 6px
+}
+
+.infobox>:not(:last-child) {
+    margin-bottom: 6px
+}
+
+.infobox .heading {
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, .1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px
+}
+
+.infobox .heading h2 {
+    margin: 0;
+    line-height: 1;
+    font-size: 20px
+}
+
+.infobox .heading h3 {
+    margin: 0;
+    line-height: 1;
+    font-size: 16px
+}
+
+.infobox-img {
+    display: block;
+    width: 100%
+}
+
+.infobox-datarow {
+    font-size: 12px
+}
+
+.infobox-group .heading {
+    margin-bottom: 8px
+}
+
+.infobox-datarow .data-content,
+.infobox-datarow .data-heading {
+    display: inline-block;
+    margin: 2px;
+    vertical-align: top
+}
+
+.infobox-datarow .data-heading {
+    width: 6rem;
+    font-weight: 500
+}
+
+.infobox-datarow .data-content {
+    list-style-type: none !important;
+    padding-left: 0
+}
+
+.infobox-datarow .data-content * {
+    white-space: pre-wrap
+}
+
+.infobox .infobox-datarow .list-bullet,
+.infobox .infobox-datarow .list-bullet::after,
+.infobox .infobox-datarow .list-bullet::before {
+    all: unset !important;
+    display: none !important
+}
+
+.mcm-column-div:is(:first-child) {
+    padding-inline-start: 0px
+}
+
+
 h1, h2, h3, h4, h5, h6, hr {
     margin-top: 0.5rem !important;
     margin-bottom: 0.5rem !important;
