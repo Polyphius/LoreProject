@@ -212,23 +212,18 @@ strong em {
 @media (max-width: 600px) {
     .bio-content-container p {
         font-size: 0.5em;
-        /* Scale text to half size on mobile */
     }
 
-    .bio-content-container h3,
-    .bio-content-container h1 {
+    .bio-content-container h3, .bio-content-container h1{
         font-size: 0.8em;
-        /* Scale text to half size on mobile */
     }
 
     .bio-content-container ul {
         font-size: 0.75em;
-        /* Scale text to half size on mobile */
     }
 
     .bio-content-container p {
         margin-top: 0;
-        /* Scale text to half size on mobile */
     }
 
     .infobox p {
@@ -260,7 +255,7 @@ strong em {
 }
 
 .infobox h1 {
-    font-size: 1.75rem;
+    font-size: 1.55rem;
 }
 
 .infobox .heading h3 {
