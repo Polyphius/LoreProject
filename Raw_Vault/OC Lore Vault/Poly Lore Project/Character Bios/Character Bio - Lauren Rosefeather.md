@@ -1,12 +1,4 @@
 
---- start-multi-column: Exampleregion1
-```column-settings  
-number of columns: 2  
-largest column: left  
-border: off
-shadow: off
-```
-
 # Lauren Rosefeather
 
 ### Background
@@ -47,8 +39,6 @@ Over all she enjoys this job due to the wildly varied nature of her gigs compare
 - Lauren is still in contact with her parents, but is much closer to her father than her mother.
 - Lauren once called her old boss "mom" by mistake.
 - Lauren's phone wallpaper is a horribly jpeg artifacted image of some hydrangeas. 
-
---- end-column ---
 
 <html lang="en">
 <head>
@@ -185,5 +175,3 @@ Over all she enjoys this job due to the wildly varied nature of her gigs compare
   </div>
 </body>
 </html>
-
---- end-multi-column

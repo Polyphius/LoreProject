@@ -3,7 +3,7 @@
   "makeOfflineCompatible": false,
   "inlineAssets": false,
   "includePluginCSS": "",
-  "includeSvelteCSS": true,
+  "includeSvelteCSS": false,
   "titleProperty": "title",
   "customHeadContentPath": "",
   "faviconPath": "C:\\\\Users\\Sleep\\Desktop\\Poly Lore Directory\\poly-lore-diagram\\_attachments\\Project Logo.png",
@@ -11,11 +11,11 @@
   "sidebarWidth": "20em",
   "minOutlineCollapse": 2,
   "startOutlineCollapsed": false,
-  "allowFoldingHeadings": true,
+  "allowFoldingHeadings": false,
   "allowFoldingLists": true,
   "allowResizingSidebars": true,
   "logLevel": "warning",
-  "minifyHTML": true,
+  "minifyHTML": false,
   "makeNamesWebStyle": true,
   "onlyExportModified": true,
   "deleteOldFiles": true,
@@ -43,10 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\Sleep\\Desktop\\T2",
+  "exportPath": "C:\\\\Users\\Sleep\\Desktop\\Exports Testing\\Test 5",
   "filesToExport": [
     [
-      "WikiBox Test"
+      "Poly Lore Project"
     ]
   ]
 }
