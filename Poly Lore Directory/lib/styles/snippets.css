@@ -126,34 +126,32 @@ body:not(.is-mobile) .markdown-source-view.mod-cm6.is-readable-line-width .inlin
     margin-left: 0 !important
 }
 
-.cm-header-1,
-h1 {
-    color: #fcbf49 !important
+h1, .cm-header-1 {
+    color: rgb(255, 189, 63)!important;
+ } 
+
+ h2, .cm-header-2 {
+    color: #f7a014 !important;
+ }
+
+h3, .cm-header-3{
+    color: #f9c74f !important;
 }
 
-.cm-header-2,
-h2 {
-    color: #f77f00 !important
+h4, .cm-header-4{
+    color: #F94144 !important ;
 }
 
-.cm-header-3,
-h3 {
-    color: #d62828 !important
+h5, .cm-header-5 {
+    color: #577590 !important;
 }
 
-.cm-header-4,
-h4 {
-    color: #ff4574 !important
+h6, .cm-header-6 {
+    color: #277da1 !important;
 }
 
-.cm-header-5,
-h5 {
-    color: #5750b9 !important
-}
-
-.cm-header-6,
-h6 {
-    color: #3747d8 !important
+.cm-strikethrough {
+    color: #d6d6d66e
 }
 
 .cm-quote {
