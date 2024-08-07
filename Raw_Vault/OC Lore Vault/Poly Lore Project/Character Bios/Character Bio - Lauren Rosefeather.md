@@ -7,16 +7,14 @@ Her original career choice was that of a Historian, due to her dad being an Arch
 
 Immediately upon being hired she was astounded by how trivially her peers took their jobs. She quickly gained a reputation within the company as someone with an extreme attention to detail a cut above those that were clearly there just for the money and doing the bare minimum. 
 With how easy she found her current position, curiosity began to get the better of her. Wanting to see how far she could take this career path before reaching her limits.
-With a glowing reference from her current position she applied for a much higher end, and much higher paying cleaning firm that dealt with much higher paying and higher profile clients. After passing the interview and almost flawlessly conducting herself on the practical trial day she landed the job.
 
+With a glowing reference from her current position she applied for a much higher end, and much higher paying cleaning firm that dealt with much higher paying and higher profile clients. She entered the interview with a look of distress on her face that was not resolved until she got up mid question to rearrange a row of books on a shelf behind the interviewer from thickest to thinnest before sitting back down without a word. After passing the interview and almost flawlessly conducting herself on the practical trial day she landed the job.
 ### Appearance
 Lauren is a well dressed woman in her 20s who's overall appearance could be described as neat. Her hair is long and a saturated but not glaring red, under direct sunlight a ginger tinge is visible. Her eyes are a sky blue, complimenting her well maintained skin and naturally relaxed facial expression. Her physically demanding job and a consistent yoga routine keeps her in great shape physically and mentally.
 Her clothing choices usually consist of a desaturated color palette, often donning solid black or white to go contrast with her comparatively vibrant hair. When she does opt for colors she avoids anything garish or too saturated. Opting to stick to desaturated, almost pastel oranges and greens in the spring and autumn with black, white, claret and deep blue being her summer choices.
-
 ### Personality
 Although religion wasn't a prominent part of her upbringing, her father, being a student of history both ancient and modern is a human corpus of moral wisdom that was effectively passed onto her in her youth. 
 During her high school years she became obsessed with the work of Ralph Waldo Emerson, particularly the optimistic views expressed on human potential and the capacity of the individual for their own self-improvement. Her personal philosophy is one of *pragmatic optimism*. Her belief is that suffering on a day to day basis can be largely minimized by how a situation is framed, and that a habitual gratitude for what the individual currently has is an antidote to much of the worry brought about by the human mind. Her optimism however is balanced with a healthy degree of pragmatism, if looking for the bright side of a situation prevents one from taking steps to rectify the circumstances causing the suffering in the first place, then in her eyes it crosses from optimism to delusion. In her day to day life this manifests as a contagiously positive attitude, something that's sorely needed by her peers on long gigs that creep over into the early hours of the morning. 
-
 #### Size Related Temperament
 In her limited interactions with those of a diminished scale Lauren exhibits mostly curiosity, handling them with a degree of care. However, due to the surreal nature of situations like this, after some time a degree of effort is required to remind herself that they are still human beings, and should be treated as such. 
 Lauren poses no significant threat to tinies, with the thought of intentionally harming them not even crossing her mind, although to what degree this is out of kindness rather than how harmless they are is unclear.
@@ -25,17 +23,16 @@ To many tinies however this state of compassionate curiosity is far from the def
 Lauren is unaware of this fear for the most part and although she never does anything *intentionally* to reinforce their misconceptions about how she's treating them, she doesn't do anything to clear them up either, she's not one to refuse extra help. With many generous offers of servitude being made in a nervous tone being met with the same energy as someone who's just offered something out of the kindness of their own heart.
 There's a disconnect that underscores every mixed size interaction she has. With her bar for what constitutes an appropriate level of cleaning being much higher than the average person, this manifests in subtle actions that indicate an expected level of effort much higher than what was initially offered. Such as acting surprised after tinies stop after cleaning one shoe when she assumed they meant they were offering to clean both or asking them to place a small item of clothing in the laundry, an action that takes those at that scale multiple people to drag across the floor. 
 The misinterpretation of her actions towards and around tinies as malicious or threatening unintentionally nets her the benefits of being entitled and cruel without a single intentional act of malice. Her kind hearted temperament makes it so the mere possibility that they could be scared of her is so inconceivable that it's never actually addressed.
-
 ### Occupation
 Her current job title is that of a "Executive Sanitation Specialist" although this title can be misleading. Lauren is currently part of a small team of 15 cleaning staff that are contracted by high end establishments both industrial and commercial to quickly and effectively sanitize a given area without asking questions. 
-These contracts demand various levels of discretion, from relatively harmless gigs such as a showroom at a product launch to much more classified, lucrative gigs which require multiple NDA's. Most notably, the cleaning company she works for is the only known formalized link between [[AMF]] and [[Equinox]], with her team cleaning offices, lobbies and laboratories for both of them at one time.
-Over all she enjoys this job due to the wildly varied nature of her gigs compared to that of her previous job, where one week she could be helping clean up a Hollywood movie set after a day of shooting, clearing up a venue after a fashion show or donning a hazmat suit to sanitize a corporate laboratory specializing in morally questionable biochemical research.
 
+These contracts demand various levels of discretion, from relatively harmless gigs such as a showroom at a product launch to much more classified, lucrative gigs which require multiple NDA's. Most notably, the cleaning company she works for is the only known formalized link between [[AMF]] and [[Equinox]], with her team cleaning offices, lobbies and laboratories for both of them at one time.
+
+Over all she enjoys this job due to the wildly varied nature of her gigs compared to that of her previous job, where one week she could be helping clean up a Hollywood movie set after a day of shooting, clearing up a venue after a fashion show or donning a hazmat suit to sanitize a corporate laboratory specializing in morally questionable biochemical research.
 ### Trivia
 
-- The only reason why her practical interview wasn't flawless was instinctively shook her interviewer's hand with a glove soaked in cleaning solution.
-- Lauren's only social media is a Pinterest feed full of plants and interior design tips and a Quora that's mostly about yoga.
-- Her hobbies include Yoga, Amateur Painting, basic botany and reading, both fiction and non fiction.
+- Lauren's only social media is a Pinterest feed full of plants and interior design tips.
+- Her hobbies include Yoga, Amateur Painting, basic Botany and Reading, both fiction and non fiction.
 - Lauren is still in contact with her parents, but is much closer to her father than her mother.
 - Lauren once called her old boss "mom" by mistake.
 - Lauren's phone wallpaper is a horribly jpeg artifacted image of some hydrangeas. 

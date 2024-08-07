@@ -15,7 +15,7 @@
               "state": {
                 "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poly Lore Project/Lore Diagram V1.canvas",
+                "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poly Lore Project/Lore Diagram V1.canvas",
+                "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poly Lore Project/Lore Diagram V1.canvas"
+                "file": "Poly Lore Project/Character Bios/Character Bio - Lauren Rosefeather.md"
               }
             }
           }
@@ -147,48 +147,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "99f93801c6f76900",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e4b631fe2bb61427",
-        "type": "window",
-        "children": [
-          {
-            "id": "b245a9ad689b60ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "503d81708e18a70a",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Poly Lore Project/Lore Diagram V1.canvas",
-                    "viewState": {
-                      "x": 0,
-                      "y": 0,
-                      "zoom": 0
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 550,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "503d81708e18a70a",
+  "active": "21e5d464e21b49b3",
   "lastOpenFiles": [
+    "Poly Lore Project/Lore Diagram V1.canvas",
     "Poly Lore Project/Home Directory.md",
     "Poly Lore Project/Equinox.md",
     "Poly Lore Project/Character Types and Guidelines.md",
@@ -201,7 +162,6 @@
     "Poly Lore Project/US Government.md",
     "Poly Lore Project/Summary.md",
     "Poly Lore Project/Size Tech.md",
-    "Poly Lore Project/Lore Diagram V1.canvas",
     "WikiBox Test/Text.md",
     "Poly Lore Project/Artwork + Story Gallery.md",
     "Poly Lore Project/Character Bios/Heading Title Tests.md",
